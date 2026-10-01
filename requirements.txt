@@ -1,0 +1,36 @@
+apache-airflow-providers-snowflake
+
+
+hello everyone,...
+as you all know its a 2 days bootcamp, aaj ek and then sat ko vapis,
+so before starting the session i want to know from you guys ki tumhe python kitna aata hai
+
+So before starting with python, lets see python develop kyu kiya tha,
+
+python aane ke Pehle bhi there were languages like C, Java
+
+C gives:
+
+Manual memory management
+Pointers
+High performance
+
+Java solved portability and structure:
+
+“Write once, run anywhere”
+Strong OOP model
+
+but
+Harder syntax
+Easy to make dangerous bugs (segmentation faults)
+Slow development time for large applications
+
+Python was designed to:
+
+Be simple
+Have clean, minimal syntax
+Easier to read
+Faster to write
+
+
+

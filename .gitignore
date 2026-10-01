@@ -1,0 +1,6 @@
+.env
+.vscode
+dags/__pycache__
+.minio.sys
+plugins/
+logs
